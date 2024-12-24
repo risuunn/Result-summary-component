@@ -1,5 +1,9 @@
 # Result-summary-component
 
-# npm install
+<p align="center">
+  <img src="https://github.com/risuunn/Result-summary-component/blob/main/desing.png?raw=true" alt="desktop-design" width="auto" height="300">
+</p>
 
-![desing](https://github.com/user-attachments/assets/2bc949a0-b0ba-4c01-989b-15a34042969f)
+<p align="center">
+  <img src="https://github.com/risuunn/Result-summary-component/blob/main/mobile-desing.png?raw=true" alt="mobile-design" width="auto" height="300">
+</p>
